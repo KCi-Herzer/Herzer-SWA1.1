@@ -1,0 +1,30 @@
+This is my 1.1 Discussion Board - Source Control assignment for SWE Online
+Here is a list of 5 projects I found intresting on GitHub.
+
+https://github.com/github/gitignore
+This project is to give users templates for using .gitignore. They contain links
+to helpful resources in the README.md file on how to use .gitignore. I will need to
+take the time to look into this more in the future.
+
+https://github.com/Facepunch/Facepunch.Steamworks
+I like this project because it's used to translate Steamworks.net funtionality
+from C++ to C# inorder for users to access Steam multiplayer funtionality
+on their Unity projects.
+
+https://github.com/DapperDino/Mirror-Multiplayer-Tutorials
+This is a repository on a series of titorials made by the YouTuber DapperDino.
+He uses this to help teach new game developers how to use Mirror in their
+Unity projects.
+
+https://github.com/demon071/Tiktok-API-Python
+I found this project intresting because it allows you to download TikTok videos
+without the TikTok watermark you'll usually get when downloading a video. I 
+wont ever use this, but it's intresting to see how this can be done.
+
+https://github.com/HungryTurtleCode/multiplayerSnake
+This project is made by Hungry Turtle Code on YouTube. He has a tutorial on
+how to make a multiplayer snake game using Socket. I have not worked with Java
+yet, so it is intresting to look at some of his code.
+
+
+
